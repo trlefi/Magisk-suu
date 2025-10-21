@@ -33,16 +33,16 @@ Magisksuu 是一款用于定制 vivo 的开源软件，支持 Android 6.0 及以
 对于 Magisk 问题，请上传启动 logcat 或 dmesg。<br>
 对于 Magisk 应用崩溃，请记录并上传崩溃发生时的 logcat。
 
-## Translation Contributions
+## 翻译贡献
 
-Default string resources for the Magisk app and its stub APK are located here:
+Magisksuu 应用程序及其存根 APK 的默认字符串资源位于此处:
 
 - `app/core/src/main/res/values/strings.xml`
 - `app/stub/src/main/res/values/strings.xml`
 
-Translate each and place them in the respective locations (`[module]/src/main/res/values-[lang]/strings.xml`).
+翻译每一个并将它们放置在相应的位置 (`[module]/src/main/res/values-[lang]/strings.xml`).
 
-## License
+## 执照
 
     Magisk, including all git submodules are free software:
     you can redistribute it and/or modify it under the terms of the
