@@ -6,15 +6,15 @@
 
 ## 介绍
 
-Magisksuu is a suite of open source software for customizing vivo, supporting devices higher than Android 6.0.<br>
-Some highlight features:
+Magisksuu 是一款用于定制 vivo 的开源软件，支持 Android 6.0 及以上版本的设备。
+<br>
+其主要功能如下:
 
-- **MagiskSUU**: Provide root access for applications
-- **Magisk Modules**: Modify read-only partitions by installing modules
-- **MagiskBoot**: The most complete tool for unpacking and repacking Android boot images
-- **Zygisk**: Run code in every Android applications' processes
-
-## Downloads
+- **MagiskSUU**: 为应用程序提供 root 访问权限
+- **Magisk 模块**: 通过安装模块修改只读分区
+- **MagiskBoot**: 最完整的 Android 启动映像解压和重新打包工具
+- **Zygisk**: 在每个 Android应用程序的进程中运行代码
+## 下载
 
 [Github](https://github.com/trlefi/Magisk-suu) is the only source where you can get official Magisk information and downloads.
 
