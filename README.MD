@@ -9,7 +9,7 @@
 Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.<br>
 Some highlight features:
 
-- **MagiskSU**: Provide root access for applications
+- **MagiskSUU**: Provide root access for applications
 - **Magisk Modules**: Modify read-only partitions by installing modules
 - **MagiskBoot**: The most complete tool for unpacking and repacking Android boot images
 - **Zygisk**: Run code in every Android applications' processes
