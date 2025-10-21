@@ -1,0 +1,14 @@
+out
+*.zip
+*.jks
+*.apk
+*.log
+/config.prop
+/notes.md
+
+# Built binaries
+native/out
+
+# Android Studio
+*.iml
+.idea
