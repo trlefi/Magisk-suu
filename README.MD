@@ -18,7 +18,7 @@ Magisksuu 是一款用于定制 vivo 的开源软件，支持 Android 6.0 及以
 
 [Github](https://github.com/trlefi/Magisk-suu) 是您获取 Magisksuu 下载的来源。
 
-## Useful Links
+## 有用的链接
 
 - [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
 - [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
