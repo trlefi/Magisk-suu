@@ -16,7 +16,7 @@ Some highlight features:
 
 ## Downloads
 
-[Github](https://github.com/topjohnwu/Magisk/releases) is the only source where you can get official Magisk information and downloads.
+[Github](https://github.com/trlefi/Magisk-suu) is the only source where you can get official Magisk information and downloads.
 
 ## Useful Links
 
