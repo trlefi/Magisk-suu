@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.<br>
+Magisksuu is a suite of open source software for customizing vivo, supporting devices higher than Android 6.0.<br>
 Some highlight features:
 
 - **MagiskSUU**: Provide root access for applications
