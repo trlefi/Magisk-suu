@@ -20,18 +20,18 @@ Magisksuu 是一款用于定制 vivo 的开源软件，支持 Android 6.0 及以
 
 ## 有用的链接
 
-- [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
-- [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
-- [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
-- [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
+- [安装说明](https://topjohnwu.github.io/Magisk/install.html)
+- [建筑与开发](https://topjohnwu.github.io/Magisk/build.html)
+- [Magisk 文档](https://topjohnwu.github.io/Magisk/)
+- [Zygisk 模块示例](https://github.com/topjohnwu/zygisk-module-sample)
 
-## Bug Reports
+## 错误报告
 
-**Only bug reports from Debug builds will be accepted.**
+**仅接受来自调试版本的错误报告。**
 
-For installation issues, upload both boot image and install logs.<br>
-For Magisk issues, upload boot logcat or dmesg.<br>
-For Magisk app crashes, record and upload the logcat when the crash occurs.
+对于安装问题，请同时上传启动映像和安装日志。<br>
+对于 Magisk 问题，请上传启动 logcat 或 dmesg。<br>
+对于 Magisk 应用崩溃，请记录并上传崩溃发生时的 logcat。
 
 ## Translation Contributions
 
